@@ -4,7 +4,7 @@
 **Disciplina:** Projeto de Software  
 **Autores:**  
 - Renan Dos Santos Jesus (RA: 10748027)  
-- [Nome da sua Dupla] (RA: [RA da dupla])  
+- João Pedro Nascimento Simões (RA: 10427517)  
 
 ---
 
