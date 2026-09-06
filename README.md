@@ -1,7 +1,7 @@
 # Projeto Alice 3D - Conceitos de Orientação a Objetos
 
 **Universidade Presbiteriana Mackenzie**  
-**Curso:** Ciência da Computação  
+**Disciplina:** Projeto de Software  
 **Autores:**  
 - Renan Dos Santos Jesus (RA: 10748027)  
 - [Nome da sua Dupla] (RA: [RA da dupla])  
@@ -13,7 +13,7 @@ O storyboard abaixo ilustra a sequência lógica e as cenas principais que guiar
 
 <img width="1600" height="1017" alt="WhatsApp Image 2026-09-06 at 14 06 23" src="https://github.com/user-attachments/assets/3ac30a9b-915b-4162-ae5c-d624834263c8" />
 
-*   **Resumo da Cena:** Um senhor idoso é abduzido por alienígenas e entra em pânico ao se ver em um ambiente desconhecido. Enquanto os aliens se comunicam em uma língua incompreensível, uma máquina faz o escaneamento do idoso. O clímax cômico ocorre quando a máquina conclui a análise, descobre que abduziram um "HUMANO" por engano, e informa que a busca deve continuar por um "GATO SIAMÊS".
+*   **Resumo da Cena:** Um humano é abduzido por alienígenas e entra em pânico ao se ver em um ambiente desconhecido. Enquanto os aliens se comunicam em uma língua incompreensível, uma máquina faz o escaneamento do homem. O clímax cômico ocorre quando a máquina conclui a análise, descobre que abduziram um "HUMANO" por engano, e informa que a busca deve continuar por um "GATO SIAMÊS".
 
 ---
 
