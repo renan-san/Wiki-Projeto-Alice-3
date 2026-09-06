@@ -40,14 +40,7 @@ Para orquestrar a animação, utilizamos as seguintes lógicas:
 
 ---
 
-## 3. Arquivo do Projeto (Alice)
-O código-fonte e os assets da animação estão contidos no arquivo nativo do projeto.
-
-*   **Link para download do `.a3p`:** [Insira o link do Google Drive/OneDrive ou o caminho do arquivo se estiver na mesma pasta do GitHub, ex: `./projeto_final.a3p`]
-
----
-
-## 4. Explicação dos Conceitos (Vídeo)
+## 3. Explicação dos Conceitos (Vídeo)
 Abaixo estão os links para a animação finalizada e para o vídeo onde detalhamos como os conceitos teóricos de Orientação a Objetos (Classes, Objetos, Métodos e Herança) foram aplicados na prática utilizando a ferramenta Alice 3D.
 
 *   **Vídeo da Animação (Alice 3):** [Assistir no YouTube](https://www.youtube.com/watch?v=NYs_h5M-2Qg)
