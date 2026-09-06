@@ -48,6 +48,7 @@ O código-fonte e os assets da animação estão contidos no arquivo nativo do p
 ---
 
 ## 4. Explicação dos Conceitos (Vídeo)
-Neste vídeo, detalhamos como os conceitos teóricos de Orientação a Objetos (Classes, Objetos, Métodos e Herança) foram aplicados na prática utilizando a ferramenta Alice 3D.
+Abaixo estão os links para a animação finalizada e para o vídeo onde detalhamos como os conceitos teóricos de Orientação a Objetos (Classes, Objetos, Métodos e Herança) foram aplicados na prática utilizando a ferramenta Alice 3D.
 
-*   **Link para o Vídeo:** [Insira o link do YouTube ou Google Drive]
+*   **Vídeo da Animação (Alice 3):** [Assistir no YouTube](https://www.youtube.com/watch?v=NYs_h5M-2Qg)
+*   **Vídeo de Explicação:** [Assistir no YouTube](https://www.youtube.com/watch?is=EW1D0pF6om3aG-C_&v=WEzpKTwdXNk&feature=youtu.be)
